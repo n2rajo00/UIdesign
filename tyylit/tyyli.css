@@ -1,0 +1,14 @@
+.btn-group {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+}
+
+.important{
+    color: red;
+}
+
+viesti1 {
+    font-weight: bold;
+}
